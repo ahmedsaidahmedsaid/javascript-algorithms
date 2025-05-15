@@ -2,6 +2,8 @@
 
 This list showcases some of the most popular JavaScript algorithms, from simple string manipulations to classic recursive solutions and efficient searching techniques. Each snippet demonstrates a fundamental concept often encountered in coding interviews and real-world development.
 
+> **Note:** Popularity is based on common interview topics, educational resources, and usage in developer communities.
+
 ## 1. Reverse a String
 
 ```js
@@ -46,7 +48,7 @@ console.log(binarySearch([1, 2, 3, 4, 5], 4)); // Output: 3
 
 **Explanation**: Efficiently searches for a target in a sorted array using a divide-and-conquer approach.
 
-## 4. Fibonacci Sequence
+## 4. Fibonacci Sequence (Recursive)
 
 ```js
 function fibonacci(n) {
@@ -58,6 +60,8 @@ console.log(fibonacci(6)); // Output: 8
 ```
 
 **Explanation**: Generates the nth Fibonacci number recursively by summing the two preceding numbers.
+
+⚠️ **Note**: This approach has **exponential time complexity O(2<sup>n</sup>)** and is inefficient for large inputs. Consider memoization or iteration for better performance.
 
 ## 5. Factorial of a Number
 
@@ -82,6 +86,8 @@ function isPrime(num) {
   }
   return true;
 }
+
+console.log(isPrime(7)); // Output: true
 ```
 
 **Explanation**: Checks if a number is prime by testing divisibility up to its square root.
@@ -152,4 +158,4 @@ function gcd(a, b) {
 console.log(gcd(48, 18)); // Output: 6
 ```
 
-**Explanation:** Uses the Euclidean algorithm to compute the greatest common divisor of two numbers.
+**Explanation**: Uses the Euclidean algorithm to compute the greatest common divisor of two numbers.
